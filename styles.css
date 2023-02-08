@@ -68,12 +68,12 @@ h1{
   padding: 1.5rem;
   margin-top: 2rem;
   justify-content: space-around;
-  border-top: 1px solid hsl(0, 0%, 59%);;
+  border-top: 1px solid hsl(0, 0%, 59%);
 }
 
 h1, h2{
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .bottom-part p{
